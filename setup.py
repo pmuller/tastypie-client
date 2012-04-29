@@ -16,7 +16,7 @@ setup(
     author='Philippe Muller',
     author_email='philippe.muller@cfm.fr',
     description='Client for Django-Tastypie based REST services',
-    long_description=read('README'),
+    long_description=read('README.rst'),
     keywords='tastypie rest django requests',
     install_requires=['requests>=0.11.2'],
     classifiers=[

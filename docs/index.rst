@@ -1,5 +1,5 @@
 Welcome to tastypie-client's documentation!
 ===========================================
 
-.. include:: ../README
+.. include:: ../README.rst
 
