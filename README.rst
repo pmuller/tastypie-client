@@ -37,3 +37,9 @@ Alternatively, you load both of them with an unique HTTP request ::
     >>> user.posts[:]
     [<Resource entry/1: {u'body': u'foo body', u'title': u'foo!', u'id': u'1', u'user': <ResourceProxy user/1>, u'pub_date': u'2012-04-29T08:55:08', u'slug': u'foo'}>,
      <Resource entry/2: {u'body': u'bar body', u'title': u'bar title', u'id': u'2', u'user': <ResourceProxy user/1>, u'pub_date': u'2012-04-29T08:55:21', u'slug': u'bar'}>]
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/pmuller/tastypie-client/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
